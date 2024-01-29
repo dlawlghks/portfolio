@@ -479,6 +479,7 @@ button:focus {
     .header {
         flex-direction: column;
         align-items: start;
+        background-color: var(--color-primary);
     }
 
     .header__toggle {
